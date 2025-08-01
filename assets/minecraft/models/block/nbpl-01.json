@@ -1,0 +1,6 @@
+{
+"parent": "block/nbpl",
+	"textures": {
+		"nbpl": "block/note_block/nbpl-01"
+				}
+}

@@ -1,0 +1,499 @@
+[C]§f============
+[C]§eMinecraft Team
+[C]§f============
+
+§7Original Creator
+§f          RitzKid76
+
+§7Chief Creative Officer
+§f          RitzKid76
+
+§7Producers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7Lead Engineer
+§f          RitzKid76
+
+§7Game Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7Launcher Tech Lead
+§f          RitzKid76
+
+§7Launcher Developers
+§f          RitzKid76
+
+§7Realms Tech Lead
+§f          RitzKid76
+
+§7Realms Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Minecraft Content Lead
+§f          RitzKid76
+
+
+§7Minecraft Content Coordinator
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Art Directors
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Graphics Artists
+§f          RitzKid76
+§f          RitzKid76
+
+§7User Experience Design
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Lead User Experience Developers
+§f          RitzKid76
+§f          RitzKid76
+
+§7User Experience Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Lead Sound Designer
+§f          RitzKid76
+
+§7Sound Design
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7Music composed by
+§f          RitzKid76
+
+
+§7Writing
+§f          RitzKid76
+
+
+§7Developers of Mo’ Creatures
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+[C]§f========
+[C]§eMojang
+[C]§f========
+
+§7Chief Executive Officer
+§f          RitzKid76
+
+
+§7Chief Operations Officer
+§f          RitzKid76
+
+
+§7Chief Technology Officer
+§f          RitzKid76
+
+
+§7Chief Brand Officer
+§f          RitzKid76
+
+
+§7Chief Content Officer
+§f          RitzKid76
+
+
+§7Human Resources
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Director of Finance
+§f          RitzKid76
+
+
+§7Director of New Games
+§f          RitzKid76
+
+
+§7Game Director
+§f          RitzKid76
+
+
+§7Game Designers
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Lead Game Developers
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Game Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Art Leads
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Graphic Designers
+§f          RitzKid76
+§f          RitzKid76
+
+
+§73D/VFX
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Lead System Engineers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7System Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Experience Design
+§f          RitzKid76
+
+
+§7Director of Business Development
+§f          RitzKid76
+
+
+§7Production Director
+§f          RitzKid76
+
+
+§7Head of Creative Production
+§f          RitzKid76
+
+
+§7Production Manager
+§f          RitzKid76
+
+
+§7Producers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7Project Managers
+§f          RitzKid76
+
+
+§7Director of Creative Communications
+§f          RitzKid76
+
+
+§7Head of Marketing Communications
+§f          RitzKid76
+
+
+§7Creative Communications Assistant
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Head of Community Relations
+§f          RitzKid76
+
+§7Community Relations Coordinator
+§f          RitzKid76
+
+§7Head of Social Media
+§f          RitzKid76
+
+
+§7Customer Support Team Lead
+§f          RitzKid76
+
+
+§7Customer Support
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7Office Manager
+§f          RitzKid76
+
+
+§7Office Coordinators
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Reception Manager
+§f          RitzKid76
+
+
+§7Financial Accountant
+§f          RitzKid76
+
+
+§7IT Wizards
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Product Designer Team Lead
+§f          RitzKid76
+
+
+§7Product Designers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Motion Graphics Designer
+§f          RitzKid76
+
+
+§7Intellectual Property Enforcement Team Lead
+§f          RitzKid76
+
+
+§7Intellectual Property Enforcement Agents
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+[C]§f===========
+[C]§eMojang Alumni
+[C]§f===========
+
+§7Chief Executive Officers
+§f          RitzKid76
+
+
+§7Chief Finance Officer
+§f          RitzKid76
+
+
+§7Chief Technology Officer
+§f          RitzKid76
+
+
+§7Project Directors
+§f          RitzKid76
+
+
+§7Production Director
+§f          RitzKid76
+
+
+§7Game Director
+§f          RitzKid76
+
+
+§7Producers
+§f          RitzKid76
+
+
+§7Assistant Producers
+§f          RitzKid76
+
+
+§7Game Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§73D/VFX
+§f          RitzKid76
+
+
+§7User Experience Design Director
+§f          RitzKid76
+
+
+§7Additional Programming
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+§7Lead System Engineers
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7System Developers
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Realms Developers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Graphics Artists
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Head of Social Media
+§f          RitzKid76
+
+
+§7Merchandise Art Director
+§f          RitzKid76
+
+
+§7Additional Graphics
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Creative Communications Manager
+§f          RitzKid76
+
+
+§7Creative Communications Assistant
+§f          RitzKid76
+
+
+§7Business Intelligence
+§f          RitzKid76
+
+
+§7Customer Support
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+§7Office Managers
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+§f          RitzKid76
+
+
+[C]§f============
+[C]§eSpecial Thanks
+[C]§f============
+§f          ubbdate
+§f          Grassboii
+§f		NikoCalamity
+
+
+
+
+
+
+§f"Idk mon" §7- RitzKid76

@@ -1,0 +1,9 @@
+{
+    "parent": "block/observer",
+    "textures": {
+        "bottom": "block/observer/observer_back_on",
+        "side": "block/observer/observer_side_on",
+        "top": "block/observer/observer_top_on",
+	  "front": "block/observer/observer_front_on"
+    }
+}

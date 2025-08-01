@@ -1,0 +1,43 @@
+{
+	"textures": {
+		"bar": "block/dark_oak_planks",
+		"particle": "block/bell_bottom",
+		"post": "block/bell_bottom"
+	},
+	"elements": [
+		{
+			"from": [2, 13, 7],
+			"to": [14, 15, 9],
+			"faces": {
+				"north": {"uv": [0, 0, 12, 2], "texture": "#bar"},
+				"south": {"uv": [0, 0, 12, 2], "texture": "#bar"},
+				"up": {"uv": [0, 0, 12, 1], "texture": "#bar"},
+				"down": {"uv": [0, 1, 12, 2], "texture": "#bar"}
+			}
+		},
+		{
+			"from": [14, 0, 6],
+			"to": [16, 16, 10],
+			"faces": {
+				"north": {"uv": [14, 0, 16, 16], "texture": "#post"},
+				"east": {"uv": [10, 0, 14, 16], "texture": "#post"},
+				"south": {"uv": [14, 0, 16, 16], "texture": "#post"},
+				"west": {"uv": [10, 0, 14, 16], "texture": "#post"},
+				"up": {"uv": [14, 0, 16, 4], "texture": "#post", "cullface": "up"},
+				"down": {"uv": [14, 0, 16, 4], "texture": "#post", "cullface": "down"}
+			}
+		},
+		{
+			"from": [0, 0, 6],
+			"to": [2, 16, 10],
+			"faces": {
+				"north": {"uv": [14, 0, 16, 16], "texture": "#post"},
+				"east": {"uv": [10, 0, 14, 16], "texture": "#post"},
+				"south": {"uv": [14, 0, 16, 16], "texture": "#post"},
+				"west": {"uv": [10, 0, 14, 16], "texture": "#post"},
+				"up": {"uv": [14, 0, 16, 4], "texture": "#post", "cullface": "up"},
+				"down": {"uv": [14, 0, 16, 4], "texture": "#post", "cullface": "down"}
+			}
+		}
+	]
+}

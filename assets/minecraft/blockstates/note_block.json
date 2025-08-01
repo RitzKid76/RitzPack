@@ -1,0 +1,29 @@
+{
+	"variants": {
+		"note=0": {"model": "block/nbpl-00"},
+		"note=1": {"model": "block/nbpl-01"},
+		"note=2": {"model": "block/nbpl-02"},
+		"note=3": {"model": "block/nbpl-03"},
+		"note=4": {"model": "block/nbpl-04"},
+		"note=5": {"model": "block/nbpl-05"},
+		"note=6": {"model": "block/nbpl-06"},
+		"note=7": {"model": "block/nbpl-07"},
+		"note=8": {"model": "block/nbpl-08"},
+		"note=9": {"model": "block/nbpl-09"},
+		"note=10": {"model": "block/nbpl-10"},
+		"note=11": {"model": "block/nbpl-11"},
+		"note=12": {"model": "block/nbpl-12"},
+		"note=13": {"model": "block/nbpl-13"},
+		"note=14": {"model": "block/nbpl-14"},
+		"note=15": {"model": "block/nbpl-15"},
+		"note=16": {"model": "block/nbpl-16"},
+		"note=17": {"model": "block/nbpl-17"},
+		"note=18": {"model": "block/nbpl-18"},
+		"note=19": {"model": "block/nbpl-19"},
+		"note=20": {"model": "block/nbpl-20"},
+		"note=21": {"model": "block/nbpl-21"},
+		"note=22": {"model": "block/nbpl-22"},
+		"note=23": {"model": "block/nbpl-23"},
+		"note=24": {"model": "block/nbpl-24"}
+	}
+}

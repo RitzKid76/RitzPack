@@ -1,0 +1,19 @@
+{
+	"textures": {
+		"particle": "block/redstone_dust_dot"
+	},
+	"elements": [
+		{
+			"from": [6, 0, 8],
+			"to": [10, 2, 16],
+			"shade": false,
+			"faces": {
+				"east": {"uv": [6, 8, 6.25, 16], "texture": "#line", "tintindex": 0},
+				"south": {"uv": [6, 8, 10, 0.25], "texture": "#line", "tintindex": 0, "cullface": "south"},
+				"west": {"uv": [6, 8, 6.25, 16], "texture": "#line", "tintindex": 0},
+				"up": {"uv": [6, 8, 10, 16], "texture": "#line", "tintindex": 0},
+				"down": {"uv": [6, 8, 10, 16], "texture": "#line", "tintindex": 0, "cullface": "down"}
+			}
+		}
+	]
+}

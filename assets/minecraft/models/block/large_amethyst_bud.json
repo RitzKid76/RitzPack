@@ -1,0 +1,85 @@
+{
+    "textures": {
+        "particle": "block/large_amethyst_bud",
+        "amethyst": "block/large_amethyst_bud"
+    },
+    "elements": [
+        {   "from": [ 6, 0, 6 ],
+            "to": [ 10, 12, 10 ],
+            "faces": {
+                "up": { "uv": [ 12, 0, 16, 4], "texture": "#amethyst"},
+                "down": { "uv": [ 12, 12, 16, 16], "texture": "#amethyst", "cullface": "down"},
+				"north": { "uv": [ 0, 4, 4, 16 ], "texture": "#amethyst"},
+				"south": { "uv": [ 0, 4, 4, 16 ], "texture": "#amethyst"},
+                "west":  { "uv": [ 0, 4, 4, 16 ], "texture": "#amethyst"},
+                "east":  { "uv": [ 0, 4, 4, 16 ], "texture": "#amethyst"}
+            }
+        },
+		{   "from": [ 6, 0, 6 ],
+            "to": [ 10, 7, 10 ],
+			"rotation": { "origin": [ 8, 0, 10 ], "axis": "x", "angle": 45, "rescale": false },
+			"faces": {
+                "up": { "uv": [ 12, 0, 16, 4], "texture": "#amethyst"},
+				"north": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+				"south": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "west":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "east":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"}
+            }
+        },
+		{   "from": [ 6, 0, 6 ],
+            "to": [ 10, 7, 10 ],
+			"rotation": { "origin": [ 8, 0, 6 ], "axis": "x", "angle": -45, "rescale": false },
+			"faces": {
+                "up": { "uv": [ 12, 0, 16, 4], "texture": "#amethyst"},
+				"north": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+				"south": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "west":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "east":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"}
+            }
+        },
+		{   "from": [ 6, 0, 6 ],
+            "to": [ 10, 7, 10 ],
+			"rotation": { "origin": [ 6, 0, 8 ], "axis": "z", "angle": 45, "rescale": false },
+			"faces": {
+                "up": { "uv": [ 12, 0, 16, 4], "texture": "#amethyst"},
+				"north": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+				"south": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "west":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "east":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"}
+            }
+        },
+		{   "from": [ 6, 0, 6 ],
+            "to": [ 10, 7, 10 ],
+			"rotation": { "origin": [ 10, 0, 8 ], "axis": "z", "angle": -45, "rescale": false },
+			"faces": {
+                "up": { "uv": [ 12, 0, 16, 4], "texture": "#amethyst"},
+				"north": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+				"south": { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "west":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"},
+                "east":  { "uv": [ 4, 9, 8, 16 ], "texture": "#amethyst"}
+            }
+        }
+    ],
+    "display": {
+        "ground": {
+            "rotation": [ 0, 0, 0 ],
+            "translation": [ 0, 3, 0],
+            "scale":[ 0.25, 0.25, 0.25 ]
+        },
+        "thirdperson_righthand": {
+            "rotation": [ 75, 45, 0 ],
+            "translation": [ 0, 2.5, 0],
+            "scale": [ 0.375, 0.375, 0.375 ]
+        },
+        "firstperson_righthand": {
+            "rotation": [ 0, 45, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        },
+        "firstperson_lefthand": {
+            "rotation": [ 0, 225, 0 ],
+            "translation": [ 0, 0, 0 ],
+            "scale": [ 0.40, 0.40, 0.40 ]
+        }
+    }
+}

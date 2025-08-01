@@ -1,0 +1,6 @@
+{
+	"parent": "item/item_frame_template",
+	"textures": {
+		"back": "block/item_frame"
+	}
+}

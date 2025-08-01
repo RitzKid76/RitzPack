@@ -1,0 +1,11 @@
+{
+  "parent": "minecraft:block/template_cauldron_full",
+  "textures": {
+    "content": "minecraft:block/lava_still",
+    "inside": "minecraft:block/cauldron/inner",
+    "particle": "minecraft:block/cauldron/lava_full",
+    "top": "minecraft:block/cauldron/top",
+    "bottom": "minecraft:block/cauldron/bottom",
+    "side": "minecraft:block/cauldron/lava_full"
+  }
+}

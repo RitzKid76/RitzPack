@@ -1,0 +1,6 @@
+{
+    "parent": "block/detector_rail_raised_sw_base",
+    "textures": {
+        "rail": "block/detector_rail"
+    }
+}

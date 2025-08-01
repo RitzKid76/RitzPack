@@ -1,0 +1,6 @@
+{
+    "parent": "block/powered_rail_base",
+    "textures": {
+        "rail": "block/powered_rail"
+    }
+}
