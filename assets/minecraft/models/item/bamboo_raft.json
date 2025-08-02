@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"1": "entity/chest_boat/bamboo"
 	},
@@ -117,24 +116,5 @@
 			"translation": [0, 0, -2.75],
 			"scale": [0.5, 0.5, 0.5]
 		}
-	},
-	"groups": [
-		0,
-		1,
-		{
-			"name": "group",
-			"origin": [0, 0, 0],
-			"color": 0,
-			"nbt": "{}",
-			"children": [
-				{
-					"name": "group",
-					"origin": [0, 0, 0],
-					"color": 0,
-					"nbt": "{}",
-					"children": [2, 3, 4, 5]
-				}
-			]
-		}
-	]
+	}
 }

@@ -1,7 +1,7 @@
 {
-  "parent": "minecraft:block/amethyst_cluster",
-	"gui_light": "front",
-	"display": {
+    "parent": "minecraft:block/amethyst_cluster",
+    "gui_light": "front",
+    "display": {
         "head": {
             "rotation": [ -60, 0, 0 ],
             "translation": [ 0, 5, -9],
