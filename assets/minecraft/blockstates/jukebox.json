@@ -1,0 +1,20 @@
+{
+    "multipart": [
+        {
+            "apply": {
+                "model": "block/jukebox_empty"
+            },
+            "when": {
+                "has_record": "false"
+            }
+        },
+        {
+            "apply": {
+                "model": "block/jukebox_disc"
+            },
+            "when": {
+                "has_record": "true"
+            }
+        }
+    ]
+}
