@@ -76,5 +76,12 @@
 			"rotation": [-90, -180, 0],
 			"translation": [0, 0, -8.5]
 		}
-	}
+	},
+	"groups": [
+		{
+			"name": "group",
+			"origin": [11, 8, 11],
+			"children": [0, 1, 2]
+		}
+	]
 }
