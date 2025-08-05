@@ -1,5 +1,4 @@
 {
-	"credit": "Made with Blockbench",
 	"textures": {
 		"0": "block/lily_pad",
 		"particle": "block/lily_pad"
@@ -77,15 +76,5 @@
 			"rotation": [-90, -180, 0],
 			"translation": [0, 0, -8.5]
 		}
-	},
-	"groups": [
-		{
-			"name": "group",
-			"origin": [11, 8, 11],
-			"color": 0,
-			"nbt": "{}",
-			"armAnimationEnabled": false,
-			"children": [0, 1, 2]
-		}
-	]
+	}
 }
