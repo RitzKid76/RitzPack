@@ -1,0 +1,16 @@
+{
+    "variants": {
+        "facing=north,triggered=false": {"model": "block/dispenser/side_unpowered"},
+        "facing=east,triggered=false": {"model": "block/dispenser/side_unpowered", "y": 90},
+        "facing=south,triggered=false": {"model": "block/dispenser/side_unpowered", "y": 180},
+        "facing=west,triggered=false": {"model": "block/dispenser/side_unpowered", "y": 270},
+        "facing=up,triggered=false": {"model": "block/dispenser/up_unpowered"},
+        "facing=down,triggered=false": {"model": "block/dispenser/up_unpowered", "x": 180},
+        "facing=north,triggered=true": {"model": "block/dispenser/side_powered"},
+        "facing=east,triggered=true": {"model": "block/dispenser/side_powered", "y": 90},
+        "facing=south,triggered=true": {"model": "block/dispenser/side_powered", "y": 180},
+        "facing=west,triggered=true": {"model": "block/dispenser/side_powered", "y": 270},
+        "facing=up,triggered=true": {"model": "block/dispenser/up_powered"},
+        "facing=down,triggered=true": {"model": "block/dispenser/up_powered", "x": 180}
+    }
+}

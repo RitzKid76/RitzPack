@@ -1,0 +1,9 @@
+{
+    "parent": "block/dispenser/base_side",
+    "textures": {
+        "front": "block/dispenser/front",
+        "side": "block/dispenser/side",
+        "side_up": "block/dispenser/side_up",
+        "back": "block/dispenser/back"
+    }
+}

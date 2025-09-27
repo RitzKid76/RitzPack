@@ -1,0 +1,9 @@
+{
+    "parent": "block/dropper/base_side",
+    "textures": {
+        "front": "block/dropper/front_powered",
+        "side": "block/dropper/side_powered",
+        "side_up": "block/dropper/side_up_powered",
+        "back": "block/dropper/back_powered"
+    }
+}
