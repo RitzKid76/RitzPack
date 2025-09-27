@@ -1,9 +1,9 @@
 {	"parent": "block/block",
     "textures": {
-        "particle": "block/item_transportation/hopper_outside",
-        "top": "block/item_transportation/hopper_top",
-        "side": "block/item_transportation/hopper_outside",
-        "inside": "block/item_transportation/hopper_inside"
+        "particle": "block/hopper/outside",
+        "top": "block/hopper/top",
+        "side": "block/hopper/outside",
+        "inside": "block/hopper/inside"
     },
     "elements": [
         {   "from": [ 0, 10, 0 ],
