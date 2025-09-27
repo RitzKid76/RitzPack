@@ -1,0 +1,31 @@
+name: Release Resource Pack
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  release:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      - name: Read version from version
+        id: get_version
+        run: echo "version=$(cat version)" >> $GITHUB_OUTPUT
+
+      - name: Zip resource pack
+        run: |
+          zip -r "${{ github.event.repository.name }}.zip" . \
+            -x "*.git*" ".github/*"
+
+      - name: Create or Update Release
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ steps.get_version.outputs.version }}
+          name: Release v${{ steps.get_version.outputs.version }}
+          files: ${{ github.event.repository.name }}.zip
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
