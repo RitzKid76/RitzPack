@@ -23,7 +23,7 @@ jobs:
 
       - name: Zip resource pack
         run: |
-          zip -r "${{ github.event.repository.name }}.zip" . -x ".git/*" ".github/*"
+          zip -r "${{ github.event.repository.name }}.zip" pack.mcmeta pack.png assets
 
       - name: Create version tag
         run: |
@@ -31,6 +31,38 @@ jobs:
           git config --global user.email "github-actions@github.com"
           git tag -f -a "v${{ steps.get_version.outputs.version }}" -m "Release v${{ steps.get_version.outputs.version }}"
           git push origin -f "v${{ steps.get_version.outputs.version }}"
+
+      - name: Delete existing release assets
+        uses: actions/github-script@v6
+        with:
+          github-token: ${{ secrets.GITHUB_TOKEN }}
+          script: |
+            const tag = `v${{ steps.get_version.outputs.version }}`;
+            const repo = context.repo;
+            try {
+              const release = await github.rest.repos.getReleaseByTag({
+                owner: repo.owner,
+                repo: repo.repo,
+                tag
+              });
+              const assets = await github.rest.repos.listReleaseAssets({
+                owner: repo.owner,
+                repo: repo.repo,
+                release_id: release.data.id
+              });
+              for (const asset of assets.data) {
+                await github.rest.repos.deleteReleaseAsset({
+                  owner: repo.owner,
+                  repo: repo.repo,
+                  asset_id: asset.id
+                });
+              }
+            } catch (e) {
+              if (e.status === 404) {
+                return;
+              }
+              throw e;
+            }
 
       - name: Create or Update Release
         uses: softprops/action-gh-release@v2
