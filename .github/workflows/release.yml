@@ -5,12 +5,17 @@ on:
     branches:
       - main
 
+permissions:
+  contents: write
+
 jobs:
   release:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout repository
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
 
       - name: Read version from version
         id: get_version
@@ -18,8 +23,14 @@ jobs:
 
       - name: Zip resource pack
         run: |
-          zip -r "${{ github.event.repository.name }}.zip" . \
-            -x "*.git*" ".github/*"
+          zip -r "${{ github.event.repository.name }}.zip" . -x ".git/*" ".github/*"
+
+      - name: Create version tag
+        run: |
+          git config --global user.name "github-actions"
+          git config --global user.email "github-actions@github.com"
+          git tag -f -a "v${{ steps.get_version.outputs.version }}" -m "Release v${{ steps.get_version.outputs.version }}"
+          git push origin -f "v${{ steps.get_version.outputs.version }}"
 
       - name: Create or Update Release
         uses: softprops/action-gh-release@v2
@@ -27,5 +38,6 @@ jobs:
           tag_name: v${{ steps.get_version.outputs.version }}
           name: Release v${{ steps.get_version.outputs.version }}
           files: ${{ github.event.repository.name }}.zip
+          overwrite: true
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
